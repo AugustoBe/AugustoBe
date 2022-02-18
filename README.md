@@ -22,7 +22,7 @@
   <img align="" align="" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" style="justify-content:"space-around""/>
   <img align="" align="" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="justify-content:"space-around""/>
   <img align="" align="" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="justify-content:"space-around"; margin-right: 500px/>
-  <img align="right" alt="Bear" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/902731379735920681/a_c1369ab3c9a2dbe8f08b27af5bc6bc87.gif?size=2048">
+  <img align="right" alt="Bear" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/UOLTZIPs8PhfjhhJIT8fSOu6sFQaBotY9g5QO9l7hno/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/902731379735920681/112ff898871e15b9dffaf8a90665df84.png?size=2048">
   </div>
   
 ##
