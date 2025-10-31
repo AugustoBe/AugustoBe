@@ -23,7 +23,7 @@
   <img align="" align="" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" style="justify-content:"space-around""/>
   <img align="" align="" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="justify-content:"space-around""/>
   <img align="" align="" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="justify-content:"space-around"; margin-right: 500px/>
-  <img align="right" alt="Bear" src="https://cdn.discordapp.com/attachments/985035860401606716/1433835722988720252/remix-8aff57d6-5ed9-4c45-996e-b5175b994df1.png?ex=69062313&is=6904d193&hm=d5c1a5283594bad7fd90bd68f6a55f3457d9399ef81429b9f0e88a4f52e1cb5c&"?size=2048">
+  <img align="right" alt="Bear" src="https://cdn.discordapp.com/attachments/985035860401606716/1433835722988720252/remix-8aff57d6-5ed9-4c45-996e-b5175b994df1.png?ex=69062313&is=6904d193&hm=d5c1a5283594bad7fd90bd68f6a55f3457d9399ef81429b9f0e88a4f52e1cb5c&"?size=1024">
   </div>
   
 ##
