@@ -1,8 +1,9 @@
 ### Olá, Eu sou o Augusto! 👋
 
-- 🧐 Estudo ANALISE E DESENVOLVIMENTO DE SISTEMAS no CPS - Etec Barueri
-- 🌱 Adoro desenvolvimento para web
-- 🏳️‍🌈🧔 Ele/Dele
+- 🧐 Estudo Ciência da Computação na FMU.
+- ✔️ Formado em Análise e Desenvolvimento de Sistemas na Etec de Barueri.           - 🌱 Desenvolvimento web is my passion.
+- 🎨 Designer Gráfico nas horas vagas
+- 🏳️‍🌈🧔 Ele/Dele.
 
 
 
